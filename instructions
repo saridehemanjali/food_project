@@ -1,0 +1,15 @@
+//sign in
+give name email and phone number
+and then log in
+
+//admin panel updates
+From admin panel have to update tracking process
+
+//How to do dummy Payment 
+Details
+1)Search "Stripe dummy card" on browser
+2)Go to 'Test card numbers"
+3)Then scroll for card by country
+4)select India and copy account number
+5)Paste the number on card number on food_del
+6)Give future month and year and random 3digit cvv
